@@ -1,0 +1,5 @@
+c:\documents and settings\banyaai\moje dokumenty\visual studio 2010\Projects\PrzykladRemoting\KlasaRemoting\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\banyaai\moje dokumenty\visual studio 2010\Projects\PrzykladRemoting\KlasaRemoting\bin\Debug\KlasaRemoting.dll
+c:\documents and settings\banyaai\moje dokumenty\visual studio 2010\Projects\PrzykladRemoting\KlasaRemoting\bin\Debug\KlasaRemoting.pdb
+c:\documents and settings\banyaai\moje dokumenty\visual studio 2010\Projects\PrzykladRemoting\KlasaRemoting\obj\Debug\KlasaRemoting.dll
+c:\documents and settings\banyaai\moje dokumenty\visual studio 2010\Projects\PrzykladRemoting\KlasaRemoting\obj\Debug\KlasaRemoting.pdb

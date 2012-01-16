@@ -1,0 +1,11 @@
+c:\documents and settings\banyaai\moje dokumenty\visual studio 2010\Projects\SerwerRemoting\SerwerRemoting\bin\Debug\SerwerRemoting.exe
+c:\documents and settings\banyaai\moje dokumenty\visual studio 2010\Projects\SerwerRemoting\SerwerRemoting\bin\Debug\SerwerRemoting.pdb
+c:\documents and settings\banyaai\moje dokumenty\visual studio 2010\Projects\SerwerRemoting\SerwerRemoting\bin\Debug\KlasaRemoting.dll
+c:\documents and settings\banyaai\moje dokumenty\visual studio 2010\Projects\SerwerRemoting\SerwerRemoting\bin\Debug\KlasaRemoting.pdb
+c:\documents and settings\banyaai\moje dokumenty\visual studio 2010\Projects\SerwerRemoting\SerwerRemoting\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\banyaai\moje dokumenty\visual studio 2010\Projects\SerwerRemoting\SerwerRemoting\obj\x86\Debug\SerwerRemoting.Properties.Resources.resources
+c:\documents and settings\banyaai\moje dokumenty\visual studio 2010\Projects\SerwerRemoting\SerwerRemoting\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\banyaai\moje dokumenty\visual studio 2010\Projects\SerwerRemoting\SerwerRemoting\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\banyaai\moje dokumenty\visual studio 2010\Projects\SerwerRemoting\SerwerRemoting\obj\x86\Debug\SerwerRemoting.exe
+c:\documents and settings\banyaai\moje dokumenty\visual studio 2010\Projects\SerwerRemoting\SerwerRemoting\obj\x86\Debug\SerwerRemoting.pdb
+c:\documents and settings\banyaai\moje dokumenty\visual studio 2010\Projects\SerwerRemoting\SerwerRemoting\obj\x86\Debug\SerwerRemoting.Form1.resources

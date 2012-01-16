@@ -1,0 +1,10 @@
+C:\Documents and Settings\banyaai\Moje dokumenty\Visual Studio 2010\Projects\PUS_Zad_3_Klient\PUS_Zad_3_Klient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\banyaai\Moje dokumenty\Visual Studio 2010\Projects\PUS_Zad_3_Klient\PUS_Zad_3_Klient\obj\x86\Debug\PUS_Zad_3_Klient.Form1.resources
+C:\Documents and Settings\banyaai\Moje dokumenty\Visual Studio 2010\Projects\PUS_Zad_3_Klient\PUS_Zad_3_Klient\obj\x86\Debug\PUS_Zad_3_Klient.Properties.Resources.resources
+C:\Documents and Settings\banyaai\Moje dokumenty\Visual Studio 2010\Projects\PUS_Zad_3_Klient\PUS_Zad_3_Klient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\banyaai\Moje dokumenty\Visual Studio 2010\Projects\PUS_Zad_3_Klient\PUS_Zad_3_Klient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\banyaai\Moje dokumenty\Visual Studio 2010\Projects\PUS_Zad_3_Klient\PUS_Zad_3_Klient\bin\Debug\PUS_Zad_3_Klient.exe.config
+C:\Documents and Settings\banyaai\Moje dokumenty\Visual Studio 2010\Projects\PUS_Zad_3_Klient\PUS_Zad_3_Klient\bin\Debug\PUS_Zad_3_Klient.exe
+C:\Documents and Settings\banyaai\Moje dokumenty\Visual Studio 2010\Projects\PUS_Zad_3_Klient\PUS_Zad_3_Klient\bin\Debug\PUS_Zad_3_Klient.pdb
+C:\Documents and Settings\banyaai\Moje dokumenty\Visual Studio 2010\Projects\PUS_Zad_3_Klient\PUS_Zad_3_Klient\obj\x86\Debug\PUS_Zad_3_Klient.exe
+C:\Documents and Settings\banyaai\Moje dokumenty\Visual Studio 2010\Projects\PUS_Zad_3_Klient\PUS_Zad_3_Klient\obj\x86\Debug\PUS_Zad_3_Klient.pdb
